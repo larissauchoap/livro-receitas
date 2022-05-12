@@ -1,3 +1,6 @@
-# livro-receitas
+# Desafio de Projeto sobre Git/GitHub da DIO
 
-# Test project created at the GFT bootcamp on Digital One
+### Repositório criado para desafio de projeto
+
+## Links úteis
+[Sintaxe básica de Markdow](https://www.markdownguide.org/basic-syntax/)
